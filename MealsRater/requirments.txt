@@ -1,3 +1,0 @@
--r requirements_local.txt
-gunicorn
-psycopg2
